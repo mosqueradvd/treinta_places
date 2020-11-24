@@ -114,6 +114,17 @@
   height: 1em;
 }
 
+.mapContainer {
+  width: 900px;
+  height: 700px;
+}
+
+#map {
+  width: 400px;
+  height: 400px;
+  position: unset;
+}
+
 @media (max-width: 600px) {
   .grid {
     width: 100%;
